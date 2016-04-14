@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easyframework-core/easyframework-core.iml" filepath="$PROJECT_DIR$/easyframework-core/easyframework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyframework-model/easyframework-model.iml" filepath="$PROJECT_DIR$/easyframework-model/easyframework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyframework-persist/easyframework-persist.iml" filepath="$PROJECT_DIR$/easyframework-persist/easyframework-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyframework-root.iml" filepath="$PROJECT_DIR$/easyframework-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyframework-utils/easyframework-utils.iml" filepath="$PROJECT_DIR$/easyframework-utils/easyframework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyframework-web/easyframework-web.iml" filepath="$PROJECT_DIR$/easyframework-web/easyframework-web.iml" />
+    </modules>
+  </component>
+</project>
